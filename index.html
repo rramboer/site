@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scavenger Hunt</title>
+    <!-- Google Fonts: Dancing Script -->
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+    <style>
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            background: #000;
+            color: #fff;
+            font-size: 15px;
+        }
+
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 0 1rem;
+        }
+
+        .center-box {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            max-width: 95vw;
+        }
+
+        input[type="text"] {
+            padding: 1em 1.2em;
+            font-size: 1.25em;
+            border: 2px solid #fff;
+            background: #000;
+            color: #fff;
+            border-radius: 6px;
+            outline: none;
+            width: 100%;
+            box-sizing: border-box;
+            margin-bottom: 1.2em;
+        }
+
+        input[type="text"]:focus {
+            border-color: #fff;
+        }
+
+        #submitBtn {
+            padding: 1em 0;
+            font-size: 1.15em;
+            background: #fff;
+            color: #000;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            width: 100%;
+            min-width: 120px;
+            min-height: 48px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="center-box">
+        <input id="passInput" type="text" placeholder="Enter the passcode...">
+        <button id="submitBtn">Unlock Clue</button>
+    </div>
+
+    <script>
+        const PASSWORD_HASH = "1b24e0c17e952e4c7caec5bfab3d9d82c41943dbb30c23fd3234b477c2451602";
+        const OBFUSCATED_CLUE = "Tm93IGZvciBhIGNoYWxsZW5nZSB0aGF0J3MgYSBiaXQgb2YgYSB0ZXN0LApJbiBhIGNvb2wsIHF1aWV0IHBsYWNlLCB5b3UnbGwgcHV0IHlvdXIgd2l0cyB0byB0aGUgdGVzdC4KTG9vayBmb3IgYSBkcmF3ZXIsIGEgcGxhY2UgZm9yIHdoYXQncyBncm93biwKV2hlcmUgc29tZXRoaW5nIGRlbGljaW91cyBpcyB3YWl0aW5nLCBhbG9uZS4KU29tZXRoaW5nIHlvdSBoYXZlIHdhbnRlZCwgYSBwZXJmZWN0IG5ldyB0cmVhdCwKSXMgaGlkZGVuIGJlbG93IHNvbWV0aGluZyB5b3UgdXN1YWxseSBlYXQu";
+        const input = document.getElementById('passInput');
+        const button = document.getElementById('submitBtn');
+
+        async function sha256(str) {
+            const encoder = new TextEncoder();
+            const data = encoder.encode(str);
+            const hashBuffer = await window.crypto.subtle.digest('SHA-256', data);
+            const hashArray = Array.from(new Uint8Array(hashBuffer));
+            return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+        }
+
+        function decodeClue() {
+            try {
+                return atob(OBFUSCATED_CLUE).replace(/\n/g, '<br />');
+            } catch {
+                return "[Error decoding clue]";
+            }
+        }
+
+        async function checkPassword() {
+            const hash = await sha256(input.value.toLowerCase().trim());
+            if (hash === PASSWORD_HASH) {
+                const clue = decodeClue();
+                document.body.innerHTML = `<div style=\"display:flex;justify-content:center;align-items:center;height:100vh;\"><p style=\"font-size:1.5em;color:#fff;font-family:'Dancing Script',cursive;\">${clue}</p></div>`;
+                document.body.style.background = '#000';
+            }
+        }
+
+        button.addEventListener('click', checkPassword);
+        input.addEventListener('keydown', function (e) {
+            if (e.key === 'Enter') checkPassword();
+        });
+    </script>
+</body>
+
+</html>
