@@ -109,7 +109,7 @@
     </main>
 
     <script>
-        fetch('../danis-stl-visit.md')
+        fetch('./danis-stl-visit.md')
             .then(r => {
                 if (!r.ok) throw new Error('Failed to load');
                 return r.text();
