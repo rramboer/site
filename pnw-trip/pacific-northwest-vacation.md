@@ -65,13 +65,15 @@
 
 ## Day 4: Tuesday Aug 25 — Drive Seattle → Olympic North (Port Angeles)
 
-- Sleep in, easy morning
-- Check out of Seattle hotel
-- Drive Seattle → Port Angeles (~3 hr via Bainbridge ferry or Tacoma route)
-- Arrive Port Angeles afternoon
-- Stop at Olympic National Park Visitor Center (3002 Mt Angeles Rd) — stickers + postcards
-- Light afternoon: explore Port Angeles, dinner
-- **Base: Port Angeles VRBO** for 3 nights (Aug 25-28)
+- 8:30 AM — Sleep in, easy morning, breakfast
+- 10:00 AM — Check out of Seattle hotel
+- 10:30 AM — Drive Seattle → Port Angeles (~3 hr via Bainbridge ferry or Tacoma route)
+- 1:30 PM — Arrive Port Angeles, lunch
+- 2:30 PM — Olympic National Park Visitor Center (3002 Mt Angeles Rd) — stickers + postcards
+- 4:00 PM — Check into VRBO (check-in window 4-7 PM)
+- 4:30 PM — Explore Port Angeles waterfront (City Pier, Hollywood Beach)
+- 6:30 PM — Dinner in Port Angeles
+- **Base: Port Angeles VRBO** for 3 nights (Aug 25-28) — check-in 4-7 PM, checkout 11 AM
 
 ---
 
@@ -144,13 +146,16 @@
 
 ---
 
-## Day 10: Monday Aug 31 — Portland
+## Day 10: Monday Aug 31 — Portland (Watch Shopping Day)
 
-- 10:00 AM — Ben Bridge Jeweler (AD, 801 SW 5th Ave) — ask for Blaine or Judie, get out-the-door quote on Omega
-- ~11:30 AM — Omega Boutique (510 SW Yamhill St) — ask for Yennie, compare service/stock
-- Lunch, decide, complete purchase at chosen store
-- Powell's Books, food trucks, Washington Park
-- Distillery Row, Pittock Mansion, explore neighborhoods
+Downtown watch crawl (all within a few blocks of each other + Dossier Hotel):
+
+- 10:00 AM — Ben Bridge Jeweler (AD, 801 SW 5th Ave) — try Omega + Rolex, ask for Blaine or Judie, get out-the-door Omega quote (negotiable)
+- ~11:15 AM — Mahler Jewelers (590 SW 10th Ave) — try Rolex + Tudor, independent dealer (ask for Evan or Rick Mahler)
+- ~12:00 PM — Omega Boutique (510 SW Yamhill St) — full Omega experience, ask for Yennie, compare to Ben Bridge
+- Lunch, decide, complete watch purchase at chosen store
+- Note: No Grand Seiko dealer in Portland. Avoid Beaverton Omega Boutique (bad service rep).
+- Afternoon/evening: Powell's Books, food trucks, Washington Park, Pittock Mansion, explore neighborhoods
 
 ---
 
@@ -177,15 +182,17 @@
 ## Day 13: Thursday Sep 3 — Drive to Mt. Rainier
 
 - Drive Cannon Beach → Ashford/Paradise (~3.5 hr)
-- **Base: Ashford VRBO** for 1 night (Sep 3-4)
+- **Base: Ashford VRBO** for 1 night (Sep 3-4) — check-in 4 PM, checkout 11 AM
 - Light afternoon at Henry M. Jackson Memorial Visitor Center (Paradise)
 
 ---
 
 ## Day 14: Friday Sep 4 — Skyline Trail + Drive to SEA Area
 
-- **Skyline Trail at Paradise (5.5 mi loop)** — start early to beat crowds
-- Postcards + stickers at Paradise gift shop
+- 7:00 AM — Drive from Ashford up to Paradise (~40 min)
+- 8:00 AM — Start Skyline Trail at Paradise (5.5 mi loop) — early start to beat crowds + afternoon clouds
+- ~12:30 PM — Finish hike, lunch at Paradise
+- 1:30 PM — Postcards + stickers at Paradise gift shop
 - Leave Paradise by ~2 PM
 - Drive Paradise → Tacoma/SEA airport area (~2 hr)
 - **Base: Element by Marriott, SeaTac** for easy Day 15 departure
@@ -230,14 +237,3 @@
 - Tolovana Inn Cannon Beach (2 nights): $390.38
 - Ashford VRBO (1 night): $263.92
 - Element by Marriott SeaTac (1 night): $183.24
-
-**All flights, car, and lodging now booked!**
-
-**Estimated remaining:**
-
-- Gas (1,800 mi @ 50 MPG hybrid, $5.50/gal): ~$200
-- Food (2 weeks): ~$1,000-1,400
-- Activities + parking + misc: ~$300-500
-- Omega watch: separate budget
-
-**Projected total (excluding watch): ~$6,800-7,400**
