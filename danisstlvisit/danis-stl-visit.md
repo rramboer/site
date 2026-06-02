@@ -26,10 +26,11 @@
 
 ## Thursday June 18 — Botanical Garden + Arch
 
-| Time    | Plan                                                               |
-| ------- | ------------------------------------------------------------------ |
-| Morning | Ryan + Dani: pool, coffee, low-key (Amanda in class until 1:30)    |
-| 1:30 PM | Amanda done with school, all 3 meet up                             |
+| Time     | Plan                                                              |
+| -------- | ----------------------------------------------------------------- |
+| 9:00 AM  | Ryan + Dani: coffee at Shaw's Coffee                              |
+| Morning  | Pool, low-key back home (Amanda in class until 1:30)              |
+| 1:30 PM  | Amanda done with school, all 3 meet up                            |
 | 2:00 PM | Missouri Botanical Garden (closes 5 PM)                            |
 | 5:30 PM | Drive downtown to the Gateway Arch (grounds + gift shop open late) |
 | 7:30 PM | Dinner at Brick House Tavern                                       |
