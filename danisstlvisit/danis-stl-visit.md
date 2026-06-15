@@ -15,9 +15,9 @@
 | ------------- | -------------------------------------------- |
 | 9:32 AM       | Dani lands at STL                            |
 | 9:45–10:15 AM | Ryan picks her up                            |
-| 10:30 AM      | Join Amanda's class at Logan                 |
-| ~12:00 PM     | 7Brew run on the way home (Ryan + Dani)      |
-| 12:15 PM      | Home, drop bags, catch-up                    |
+| 10:30 AM      | Pure Hockey — sharpen Ryan's skates          |
+| 10:45 AM      | 7Brew                                        |
+| 11:00 AM      | Home, drop bags, catch-up                    |
 | 12:30 PM      | Lunch                                        |
 | Afternoon     | Pool / relax / decompress from travel        |
 | 5:00 PM       | Amanda home                                  |
@@ -26,11 +26,11 @@
 
 ## Thursday June 18 — Botanical Garden + Arch
 
-| Time     | Plan                                                              |
-| -------- | ----------------------------------------------------------------- |
-| 9:00 AM  | Ryan + Dani: coffee at Shaw's Coffee                              |
-| Morning  | Pool, low-key back home (Amanda in class until 1:30)              |
-| 1:30 PM  | Amanda done with school, all 3 meet up                            |
+| Time    | Plan                                                               |
+| ------- | ------------------------------------------------------------------ |
+| 9:00 AM | Ryan + Dani: coffee at Shaw's Coffee                               |
+| Morning | Pool, low-key back home (Amanda in class until 1:30)               |
+| 1:30 PM | Amanda done with school, all 3 meet up                             |
 | 2:00 PM | Missouri Botanical Garden (closes 5 PM)                            |
 | 5:30 PM | Drive downtown to the Gateway Arch (grounds + gift shop open late) |
 | 7:30 PM | Dinner at Brick House Tavern                                       |
