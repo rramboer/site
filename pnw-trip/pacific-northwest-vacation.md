@@ -13,33 +13,34 @@
 
 ## Day 1: Saturday Aug 22 — Seattle Arrival (Pike Place + Waterfront)
 
-- 10:00 AM PT — Land at SEA
-- Take Link Light Rail SEA → Westlake Station downtown (~40 min, $3.50/person)
-- Walk or short Uber to hotel
-- Check into AC Hotel (hold bags at front desk if before 3 PM)
-- 1:00 PM — Storyville Coffee at Pike Place (first stop — fireplace + waterfront views)
-- 1:45 PM — Pike Place Market (fish throwers, Gum Wall, original Starbucks with old logo, lunch from stalls)
-- 3:00 PM — Seattle Aquarium (5-min walk from Pike Place)
-- 5:00 PM — Waterfront stroll (Waterfront Park, Pier 57)
-- 7:00 PM — Dinner: The Pink Door, Tilth, or Sushi Kashiba (book ahead)
-- Sunset — Kerry Park for skyline + Space Needle + Mt. Rainier shot
-
-**Optional:** Olympia Coffee (1420 5th Ave) — high-ceiling architectural beauty, ~10 min walk from Pike Place
+- 10:00 AM — Land at SEA
+- 10:45 AM — Link light rail to Westlake Station
+- 11:45 AM — Walk to AC Hotel, 117 Yale Ave N
+- 12:00 PM — Drop bags, head back toward Pike Place
+- 12:10 PM — Olympia Coffee, 1420 5th Ave
+- 12:45 PM — Lunch from Pike Place stalls
+- 1:30 PM — Storyville Coffee
+- 2:00 PM — Pike Place Market
+- 3:00 PM — Seattle Aquarium
+- 5:00 PM — Waterfront Park + Pier 57
+- 5:30 PM — Dinner: Il Bistro, 93 Pike St
+- 7:15 PM — Uber to Kerry Park
+- 7:30 PM — Kerry Park (sunset 8:09 PM)
 
 ---
 
 ## Day 2: Sunday Aug 23 — Big Seattle Day
 
-- 9:00 AM — Coffee + breakfast at Piedmont Café (historic hotel lobby vibe)
-- 10:00 AM — Seattle Art Museum (closed Mon/Tue, so today is the window)
-- 12:30 PM — Lunch in Fremont (Paseo Caribbean) or near Seattle Center
-- 2:00 PM — Museum of Pop Culture (MoPOP) — 2-3 hours
-- ~4:30 PM — Anchorhead Coffee (post-MoPOP, en route back)
-- 5:30 PM — Space Needle (go up around 7 PM for sunset views, ~8 PM)
-- 8:30 PM — Dinner near Seattle Center or Capitol Hill
-- Pack and prep for early Monday morning departure
+- 9:00 AM — Breakfast [TBD]
+- 9:30 AM — Anchorhead Coffee, 1600 7th Ave
+- 10:00 AM — Seattle Art Museum
+- 1:00 PM — Lunch: Hatch Cantina, 200 Bell St
+- 2:15 PM — MoPOP
+- 5:00 PM — Seattle Center grounds / Chihuly Garden
+- 6:00 PM — Dinner [TBD]
+- 8:00 PM — Back to hotel, pack for early Monday departure
 
-**Optional swaps:** Olympia Coffee (1420 5th Ave), Chihuly Garden and Glass, Discovery Park, Ballard Locks, Pioneer Square
+**Optional swaps:** Discovery Park, Ballard Locks, Pioneer Square
 
 ---
 
