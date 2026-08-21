@@ -31,13 +31,13 @@
 
 ## Day 2: Sunday Aug 23 — Big Seattle Day
 
-- 9:00 AM — Breakfast [TBD]
+- 8:00 AM — Breakfast: Portage Bay Cafe, 391 Terry Ave N
 - 9:30 AM — Anchorhead Coffee, 1600 7th Ave
 - 10:00 AM — Seattle Art Museum
 - 1:00 PM — Lunch: Hatch Cantina, 200 Bell St
 - 2:15 PM — MoPOP
 - 5:00 PM — Seattle Center grounds / Chihuly Garden
-- 6:00 PM — Dinner [TBD]
+- 6:15 PM — Dinner: Kalabaw, 2328 1st Ave
 - 8:00 PM — Back to hotel, pack for early Monday departure
 
 **Optional swaps:** Discovery Park, Ballard Locks, Pioneer Square
@@ -46,21 +46,21 @@
 
 ## Day 3: Monday Aug 24 — Pick Up Car + North Cascades Day Trip
 
-**Target: North Cascades Visitor Center (Newhalem) by 9:30 AM**
-
-- 4:45 AM — Wake up
-- 5:15 AM — Leave hotel for Westlake Station (luggage stays in hotel — staying 3rd night)
-- 5:30 AM — Catch Link Light Rail at Westlake
-- 6:10 AM — Arrive SEA station, walk to rental car facility
-- 6:00 AM — At Hertz SEA counter (rental scheduled to start at 6 AM)
-- 6:45 AM — Driving away from SEA
-- 9:30 AM — Arrive North Cascades Visitor Center (Newhalem)
-- Hit all stops west-to-east: Newhalem Visitor Center → Trail of the Cedars → Gorge Overlook → Ladder Creek Falls → Diablo Lake Vista → Ross Lake Overlook → Washington Pass Observation Site
-- Stickers + postcards at Newhalem Visitor Center
-- All 3 hikes from Rainy Pass parking lot (in order): Maple Pass Loop (7.5 mi, 4-5 hr) → Blue Lake (4.4 mi, 2-3 hr) → Rainy Lake (2 mi paved, 30-45 min)
-- Drive back to Seattle (~3 hr)
-- Late evening arrival at Seattle hotel — park rental car in hotel garage
+- 4:45 AM — Wake up (luggage stays at hotel — 3rd night)
+- 5:15 AM — Uber to SEA Rental Car Facility, 3150 S 160th St
+- 5:50 AM — Hertz counter (rental starts 6 AM)
+- 6:15 AM — Drive north on I-5 → SR-20 east
+- 9:05 AM — North Cascades Visitor Center, Newhalem — stickers + postcards
+- 9:30 AM — Gorge Overlook + Diablo Lake Vista (quick pullouts)
+- 10:30 AM — Maple Pass Loop, Rainy Pass trailhead (7.5 mi, ~2,000 ft)
+- 2:45 PM — Blue Lake (4.4 mi) — own trailhead, ~4 mi east of Rainy Pass
+- 5:00 PM — Washington Pass Observation Site
+- 5:15 PM — Drive west
+- 7:00 PM — Dinner stop en route (I-5 corridor — Burlington/Mount Vernon)
+- 8:45 PM — Seattle hotel, park rental car in garage
 - **Base: Seattle hotel (3rd night)**
+
+**Bring:** America the Beautiful pass — covers parking at both trailheads (signed, on the dashboard).
 
 ---
 
@@ -80,25 +80,33 @@
 
 ## Day 5 — Wednesday Aug 26 — Hurricane Ridge Day
 
-- 8:00 AM — Drive up to Hurricane Ridge (~40 min)
-- 8:45 AM — Sunrise Point via High Ridge / Cirque Rim loop (~0.5-1 mi easy, by the visitor center)
-- 9:30 AM — Klahhane Ridge hike (7.6 mi RT, ~1,800 ft gain, 4-5 hr) — do it fresh
-- 2:30 PM — Late picnic lunch at Hurricane Ridge
-- 3:00 PM — Hurricane Hill hike (3.2 mi RT, ~700 ft gain, 2 hr)
-- 5:00 PM — Drive back down
-- 6:30 PM — Dinner in Port Angeles
+- 6:45 AM — Up, pack the picnic and all water for the day
+- 7:15 AM — Drive up to Hurricane Ridge (~45 min)
+- 8:00 AM — Sunrise Point via High Ridge / Cirque Rim loop (~1 mi easy, by the visitor center)
+- 8:45 AM — Klahhane Ridge hike (7.6 mi RT, ~1,800 ft gain) — do it fresh
+- 1:30 PM — Picnic lunch at Hurricane Ridge
+- 2:15 PM — Hurricane Hill hike (3.2 mi RT, ~700 ft gain)
+- 4:30 PM — Drive back down
+- 5:15 PM — Back in Port Angeles, clean up
+- 6:00 PM — Dinner at The 929 Wood Fired Grill, 929 W 8th St (walk-ins only, no reservations; closes ~8)
+
+**Note:** no food or drinking water at Hurricane Ridge — the day lodge burned in 2023 and hasn't been rebuilt, so there are only restroom trailers. Rangers meter cars at Heart O' the Hills once the lot fills (waits up to 2 hrs, peak 10–2), and summer paving has shrunk capacity — hence the early start.
 
 ---
 
 ## Day 6 — Thursday Aug 27 — Lake Crescent Day
 
-- 8:00 AM — Drive to Lake Crescent / Storm King Ranger Station (~30 min)
-- 8:30 AM — Mount Storm King hike (3.8 mi RT, ~2,100 ft gain, 3-4 hr — rope scramble near top, optional/at-your-own-risk; official viewpoint also great)
-- 12:00 PM — Marymere Falls (same trailhead, 1.8 mi RT easy add-on, 1 hr)
-- 1:30 PM — Lunch at Lake Crescent Lodge (lakefront dining — call ahead for hours/reservations)
-- 3:00 PM — Relax by the lake, walk grounds, optional kayak rental
-- 4:30 PM — Drive back to Port Angeles
-- 6:30 PM — Dinner
+- 8:00 AM — Drive to Lake Crescent / Storm King trailhead (~30 min)
+- 8:30 AM — Mount Storm King hike (3.8 mi RT, ~2,100 ft gain — rope scramble near top is optional/at-your-own-risk; official viewpoint is the turnaround)
+- 12:00 PM — Marymere Falls (same trailhead, 1.8 mi RT easy)
+- 1:00 PM — Packed lunch by the lake
+- 2:00 PM — Lakeside afternoon: rowboat/kayak rental or swim (Spruce Railroad Trail is tight in this window — ~20 min drive each way)
+- 4:15 PM — Back to the lodge, change and clean up
+- 5:00 PM — Dinner at Singer's Table, Lake Crescent Lodge
+- 6:45 PM — Back down to the lake for evening light, or head out
+- 7:15 PM — Back at the VRBO (sunset 8:04 PM)
+
+**Bring:** a change of clothes for dinner — you'll come straight off a 2,100 ft climb, and going back to Port Angeles to shower would cost an hour of driving each way.
 
 ---
 
@@ -117,85 +125,151 @@
 
 ## Day 8 — Saturday Aug 29 — Full Hoh Rainforest Day
 
-- 7:30 AM — Leave Forks (beat Hoh parking crowds)
-- 8:30 AM — Arrive Hoh Rainforest
-- 8:45 AM — Hall of Mosses (0.8 mi loop) — iconic moss cathedral
-- 9:45 AM — Spruce Nature Trail (1.2 mi loop) — riverside, different ecosystem
-- 10:45 AM — Hoh River Trail (out-and-back to Mineral Creek Falls, ~5.6 mi RT, mostly flat) — deep old-growth rainforest, turn around anytime
-- 1:45 PM — Picnic lunch by the Hoh River
-- 2:30 PM — Hoh Visitor Center (exhibits, ranger talk, stickers/postcards)
-- 3:00 PM — Optional scenic stops on Upper Hoh Road (Big Spruce Tree)
-- 4:00 PM — Drive back toward Forks
-- Evening — Dinner in Forks, relax
+- 6:45 AM — Leave Forks (lot fills by ~10 AM; NPS says arrive before 8)
+- 7:45 AM — Arrive Hoh Rainforest
+- 8:00 AM — Hall of Mosses (0.8 mi loop) — iconic moss cathedral
+- 9:00 AM — Spruce Nature Trail (1.2 mi loop) — riverside, different ecosystem
+- 10:00 AM — Hoh River Trail (out-and-back to Mineral Creek Falls, ~5.6 mi RT, mostly flat) — turn around anytime
+- 1:00 PM — Picnic lunch by the Hoh River
+- 1:45 PM — Hoh Visitor Center (exhibits, stickers/postcards)
+- 2:45 PM — Drive out Upper Hoh Road (Big Spruce Tree stop)
+- 3:30 PM — Ruby Beach — sea stacks, tidepools
+- 5:00 PM — Drive south to Kalaloch (~10 min)
+- 5:15 PM — Kalaloch Lodge grounds / Tree of Life
+- 6:00 PM — Dinner at Creekside Restaurant, Kalaloch Lodge
+- 7:30 PM — Kalaloch Beach for sunset (8:03 PM — west-facing, sunset over the Pacific)
+- 8:15 PM — Drive back to Forks (~40 min)
+- 9:00 PM — Forks; pack for the early Portland departure
 
 ---
 
 ## Day 9 — Sunday Aug 30 — Drive to Portland (early start)
 
-- 5:30 AM — Wake, pack (prep night before)
-- 6:00 AM — Depart Forks, drive south on US-101
-- 6:50 AM — Ruby Beach — soft morning light on sea stacks, empty beach (~40 min). West-facing, so no over-water sunrise, but peaceful early light
-- 7:35 AM — Drive ~5 min south
-- 7:40 AM — Kalaloch Tree of Life — quick photo stop (~15 min)
-- 8:00 AM — Continue south, cut inland
-- 9:30 AM — Breakfast stop in Aberdeen (~40 min)
-- 10:15 AM — Resume drive to Portland
-- 12:30 PM — Arrive Portland, drop bags at hotel (room may not be ready until 3-4 PM)
-- Afternoon — Powell's Books, food trucks, Pearl District, waterfront
-- Evening — Dinner + walk around (Pearl District or Pioneer Square)
+- 6:15 AM — Wake, pack (prep night before)
+- 7:00 AM — Depart Forks, drive south on US-101, then cut inland
+- 9:15 AM — Breakfast stop in Aberdeen (~45 min)
+- 10:00 AM — Resume drive to Portland
+- 12:40 PM — Arrive Portland, drop bags at hotel (room may not be ready until 3-4 PM)
+- 1:00 PM — Food cart lunch downtown
+- 2:00 PM — Powell's City of Books, 1005 W Burnside (open daily 10-9)
+- 4:00 PM — Pearl District + waterfront wander
+- 5:30 PM — Hotel check-in
+- 6:00 PM — Dinner at Hearth & Vine, 10 NW 12th Ave (one block from Powell's)
 - **Base: Dossier Hotel, Portland** for 2 nights (Aug 30 - Sep 1)
 
 ---
 
 ## Day 10: Monday Aug 31 — Portland (Watch Shopping Day)
 
-Downtown watch crawl (all within a few blocks of each other + Dossier Hotel):
+- 10:00 AM — Ben Bridge Jeweler, 801 SW 5th Ave — Omega + Rolex; ask for Blaine or Judie, get the out-the-door Omega quote (negotiable)
+- 11:15 AM — Mahler Jewelers, 590 SW 10th Ave — Rolex + Tudor; ask for Evan or Rick Mahler
+- 12:00 PM — Omega Boutique, 510 SW Yamhill St — ask for Yennie, compare against the Ben Bridge quote
+- 12:45 PM — Lunch downtown, compare notes, decide
+- 2:00 PM — Complete the watch purchase at the chosen store
+- 2:10 PM — Pick up the car at the hotel
+- 2:35 PM — Park at Washington Park, SW Kingston Ave (pay-by-plate — buy the $9.60 daily max)
+- 2:45 PM — Walk up to the Japanese Garden (0.38 mi, uphill)
+- 3:00 PM — **Portland Japanese Garden** — timed entry. At the Welcome Center ask for the free shuttle van up to the Cultural Village; it's open to everyone and skips the steep unpaved climb
+- 4:45 PM — Walk down to the rose garden (downhill)
+- 5:00 PM — **International Rose Test Garden** — free, open till 10, no time pressure
+- 5:45 PM — Drive north to Peninsula Park (~25 min; take I-405 N → I-5 N)
+- 6:15 PM — **Peninsula Park Rose Garden** — sunken 1913 parterre + historic bandstand. Navigate to **N Albina Ave & N Ainsworth St**, not the Rosa Parks Way mailing address (that lands at the pool)
+- 7:00 PM — Dinner on N Mississippi Ave or NE Alberta St [TBD]
 
-- 10:00 AM — Ben Bridge Jeweler (AD, 801 SW 5th Ave) — try Omega + Rolex, ask for Blaine or Judie, get out-the-door Omega quote (negotiable)
-- ~11:15 AM — Mahler Jewelers (590 SW 10th Ave) — try Rolex + Tudor, independent dealer (ask for Evan or Rick Mahler)
-- ~12:00 PM — Omega Boutique (510 SW Yamhill St) — full Omega experience, ask for Yennie, compare to Ben Bridge
-- Lunch, decide, complete watch purchase at chosen store
-- Note: No Grand Seiko dealer in Portland. Avoid Beaverton Omega Boutique (bad service rep).
-- Afternoon/evening: Powell's Books, food trucks, Washington Park, Pittock Mansion, explore neighborhoods
+**Notes:** No Grand Seiko dealer in Portland. Avoid the Beaverton Omega Boutique (bad service rep). Pittock Mansion is cut — last admission is 4:30 PM and it can't coexist with this afternoon.
+
+**Book Fri Aug 21:** Japanese Garden tickets go on sale exactly 10 days ahead — $22.50/adult, target a 3:00 PM slot. Nothing else needs booking; both rose gardens are free.
 
 ---
 
 ## Day 11: Tuesday Sep 1 — Portland → Cannon Beach
 
-- Drive Portland → Cannon Beach (~1.5 hr direct, longer with stops)
-- Detour south first: Tillamook Creamery (ice cream + cheese tasting), Cape Meares, Oceanside
-- Then north to Cannon Beach, settle in
+- 6:45 AM — Grab-and-go breakfast, load car
+- 7:00 AM — Depart Portland (US-26 → US-101, ~1.5 hr)
+- 8:30 AM — Cannon Beach — park at the Hemlock St / Haystack Rock access
+- 8:45 AM — **Haystack Rock tidepools** — low tide 9:19 AM (+1.4 ft), the only good tidepool window of the whole coast stay
+- 10:30 AM — Coffee in town (Sleepy Monk)
+- 11:30 AM — Drive south to Tillamook (~1 hr 10 min)
+- 12:45 PM — Tillamook Creamery — food-hall lunch, cheese tasting, ice cream (free, no reservation; building 9-7, food hall 10-6)
+- 2:30 PM — Cape Meares — lighthouse + Octopus Tree
+- 3:45 PM — Oceanside
+- 4:15 PM — Drive north to Cannon Beach (~1 hr 15 min)
+- 5:30 PM — Check into Tolovana Inn
+- 6:30 PM — Dinner at Driftwood Restaurant & Lounge, 179 N Hemlock St
+- 7:54 PM — Sunset walk on the beach
 - **Base: Tolovana Inn, Cannon Beach** for 2 nights (Sep 1-3)
 
 ---
 
 ## Day 12: Wednesday Sep 2 — Full Cannon Beach Day
 
-- Haystack Rock + tide pools (check low tide times)
-- Ecola State Park (clifftop views, short hikes)
-- Walk Cannon Beach town — shops, galleries, charming village
-- Optional day trip south: Oceanside, Pacific City (Cape Kiwanda)
-- Dinner at The Wayfarer (oceanfront, Haystack Rock views — great at sunset)
+- 8:30 AM — Breakfast in town
+- 9:45 AM — Haystack Rock beach walk — low tide 9:55 AM (+2.2 ft, a shallower look than yesterday's window)
+- 10:45 AM — Picnic supplies at Mariner Market, 139 N Hemlock St (deli, cheese, produce; opens 8)
+- 11:15 AM — Drive to Ecola State Park ($10–12/vehicle day use)
+- 11:45 AM — **Indian Beach — picnic lunch**, then tidepools and surf watching
+- 2:30 PM — Back to Cannon Beach town
+- 3:00 PM — Shops, galleries, Bruce's Candy Kitchen
+- 5:00 PM — Rest at the inn
+- 6:30 PM — Dinner in town — pick day-of (sunset 7:52 PM)
+- 8:15 PM — Last beach stroll
+
+**Ecola notes:** the Clatsop Loop's coastal west leg is closed indefinitely (active landslide), so it can't be hiked as a loop, and the Ecola Point viewing deck was removed after erosion. Crescent Beach trail (2.5 mi RT) is open if you want more walking. Re-check the park alerts page that morning — this park has had two slide events in the past year.
 - **Base: Tolovana Inn, Cannon Beach**
 
 ---
 
 ## Day 13: Thursday Sep 3 — Drive to Mt. Rainier
 
-- Drive Cannon Beach → Ashford/Paradise (~3.5 hr)
+- 8:30 AM — Breakfast, pack
+- 9:15 AM — Check out of Tolovana Inn
+- 9:30 AM — Depart: US-101 N → Astoria → US-30 E → I-5 N → US-12 → SR-7 → SR-706 (~4 hr driving)
+- 12:00 PM — Lunch stop off I-5 (Castle Rock / Longview area)
+- 12:45 PM — Resume drive
+- 2:45 PM — Enter the park at Nisqually (NPS advises before 10 AM or after 2:30 to skip the gate line — America the Beautiful pass covers entry)
+- 3:00 PM — Quick stops on the way up: Christine Falls, Narada Falls
+- 3:50 PM — **Bench and Snow Lakes trailhead** (Stevens Canyon Rd, ~3 mi past Paradise)
+- 4:00 PM — **Bench and Snow Lakes** (2.5 mi RT, rolling, ~1.5 hr) — Snow Lake sits in a cirque under Unicorn Peak
+- 5:30 PM — Drive back west to Paradise (~15 min)
+- 5:45 PM — Jackson Visitor Center (open to 6:30) + Myrtle Falls if light allows
+- 6:20 PM — Drive down to Ashford (~45 min)
+- 7:05 PM — Dinner at Copper Creek Inn, 35707 SR-706 E (Thu 11–8 — the blackberry pie place; backup is Rainier BaseCamp Grill, kitchen to ~7:30. Wildberry is closed Thursdays)
+- 8:15 PM — Check into Ashford VRBO
 - **Base: Ashford VRBO** for 1 night (Sep 3-4) — check-in 4 PM, checkout 11 AM
-- Light afternoon at Henry M. Jackson Memorial Visitor Center (Paradise)
+
+**Before you go:** re-check the Grand Park 2 Fire status. It closed the Sunrise side of the park in early August — Paradise was unaffected, but confirm smoke and closures before this leg.
 
 ---
 
 ## Day 14: Friday Sep 4 — Skyline Trail + Drive to SEA Area
 
-- 7:00 AM — Drive from Ashford up to Paradise (~40 min)
-- 8:00 AM — Start Skyline Trail at Paradise (5.5 mi loop) — early start to beat crowds + afternoon clouds
-- ~12:30 PM — Finish hike, lunch at Paradise
-- 1:30 PM — Postcards + stickers at Paradise gift shop
-- Leave Paradise by ~2 PM
-- Drive Paradise → Tacoma/SEA airport area (~2 hr)
+- 4:20 AM — Wake, coffee, pack breakfast to eat on the trail
+- 4:50 AM — Leave Ashford, in via the **Nisqually entrance** (~45 min up; the Nisqually gate is open 24 hrs, and the Longmire–Paradise nightly closure only runs Nov 1 through winter)
+- 5:35 AM — Park at Paradise — empty lot at this hour
+- 5:45 AM — **Start Skyline Trail — up the WEST side via Glacier Vista** (5.5 mi, ~1,700 ft), climbing the stone stairs straight toward the mountain, descending the east side. Sources label this direction both "clockwise" and "counterclockwise" — ignore the label, follow the physical route. Brief headlamp use; light builds fast
+- 6:10 AM — Alpenglow hits Rainier's summit while you climb — the peak catches sun ~20 min before you do
+- 6:31 AM — **Sunrise**, roughly as you reach Glacier Vista
+- 7:00 AM — Panorama Point in full early light — Tatoosh Range, Mt. Adams, Mt. St. Helens to the south
+- 7:15 AM — **Take the signed HIGH SKYLINE TRAIL past Panorama Point** — the lower route crosses what NPS calls "a dangerous icy slope that does not melt." This is true in September; it is not seasonal. High route rejoins above the Golden Gate junction after ~0.5 mi
+- 7:45 AM — Continue the loop; descend the east side past Sluiskin Falls and Myrtle Falls
+- 9:45 AM — Finish; coffee and a sit at Paradise Inn
+- 10:30 AM — Drive east to Reflection Lakes (~10 min)
+- 10:45 AM — **Pinnacle Peak Saddle** (2.5 mi RT, ~1,050 ft, ~2 hr) — the saddle looks straight back north at Rainier
+- 12:45 PM — Back at the car
+- 1:00 PM — Lunch at Paradise Inn dining room (Fri lunch 12–2:30, first-come) or the Camp Deli
+- 2:00 PM — Postcards + stickers
+- 2:30 PM — Drive Paradise → SeaTac area (~2 hr 15 min)
+- 4:45 PM — Element by Marriott, SeaTac
+- 5:15 PM — **Fill the gas tank tonight**, not during the 4:15 AM scramble
+- 6:30 PM — Dinner near SeaTac — the Element has **no restaurant**, only Revive Lounge (bar, 5–11 PM, small bites). Good options 3 min away by Westfield Southcenter: Dong Thap Noodles (Vietnamese), Bai Tong Thai, Max's (Filipino), Moctezuma's
+- 8:00 PM — **Buy breakfast for tomorrow** — hotel breakfast doesn't start until 7 AM Saturday and you leave at 4:15; there's no 24-hr pantry on site
+- 8:30 PM — Check in for the flight, pack
+
+**For the dark start:** headlamps (not phone flashlights), and layers — Paradise sits at 5,400 ft and pre-dawn early September runs low 40s with wind on the exposed upper traverse.
+
+**Why the early start matters this year:** four of Rainier's five developed areas are closed — Sunrise and White River (Grand Park 2 Fire), Mowich and Carbon River (bridge out), Ohanapecosh (construction) — so the whole park's visitation funnels into Paradise. In August the main lot filled by 8 AM on a Wednesday and by 7 AM on a Monday, with a 40-minute entrance line at 7 AM. Labor Day Friday will be worse. A 5:35 arrival puts you ahead of all of it.
+
+**Conditions:** 2026 was a thin-snow year — bare ground to nearly 8,000 ft as of mid-August, so the loop will be dry with no traction needed. Wildflowers are done (past prime by mid-August), but early September is the annual snow minimum, which means maximum bare-ice exposure on the Nisqually Glacier. **If the smoke forecast is bad**, Skyline's whole payoff is the long view — swap to Comet Falls / Van Trump Park (forest and waterfalls, haze doesn't matter).
 - **Base: Element by Marriott, SeaTac** for easy Day 15 departure
 
 ---

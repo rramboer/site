@@ -21,7 +21,7 @@
 - **Mt. Rainier: timed entry officially CANCELLED for 2026** — no reservation needed either day. Nisqually entrance is **cashless** ($30/vehicle, 7-day). Jackson Visitor Center 9:30–6:30 daily. **Watch item: Grand Park 2 Fire** (started Aug 7) closed the Sunrise area; Paradise unaffected so far — re-check NPS alerts + smoke before Sep 3.
 - **Hurricane Ridge:** no daily quota, but inbound cars are **metered at Heart O' the Hills once parking fills** (waits up to 2 hrs, peak 10–2), and summer construction is shrinking the main lot (possible one-day full closure — check the conditions page the night before; $1 Clallam Transit shuttle is the fallback). **No food or drinking water at the top** — day lodge not rebuilt; restroom trailers only.
 - **Hoh:** Upper Hoh Road fully open (washouts repaired). Lot fills by ~10 AM; NPS says arrive **before 8 AM**; midday entrance waits 1–2 hrs. Visitor center 9–5:30.
-- **North Cascades:** SR-20 open (June 2026 slide repairs complete). Newhalem Visitor Center open **Mondays** 9–5. Park is **free**, but Rainy Pass/Blue Lake trailheads are USFS land → **Northwest Forest Pass ($5/day e-pass)** required.
+- **North Cascades:** SR-20 open (June 2026 slide repairs complete). Newhalem Visitor Center open **Mondays** 9–5. Park is **free**; Rainy Pass/Blue Lake trailheads are USFS land requiring a Northwest Forest Pass — **covered by the America the Beautiful pass we already have**.
 - **Rialto Beach / Mora Road: closed** beyond Mora Campground through Oct 15, 2026.
 - **Lake Crescent:** new concessionaire (ExplorUS) since Feb 2026 — lodge dining room is now **"Singer's Table"** (lunch 11–2:30 daily; reservations recommended, not required — (866) 405-8350). Storm King ranger *building* closed; trail open. Boat rentals via the lodge's FareHarbor page.
 - **Ecola State Park:** open, roads to Ecola Point + Indian Beach fine, but **Clatsop Loop's coastal west leg is CLOSED** (active landslide — no loop hike) and the Ecola Point viewing deck was removed. Crescent Beach trail open. Day-use $10–12/vehicle.
@@ -32,7 +32,7 @@
 - **The Wayfarer:** dinner from 4 PM, last seating 8:30; **dinner-only OpenTable reservations**; call (503) 436-1108 to request a window table.
 - **Ashford Thursday dinner:** Copper Creek Inn Thu 11–8 (blackberry pie) or Rainier BaseCamp Grill (kitchen ~7:30); **Wildberry closed Thursdays**. Don't arrive later than ~7 PM.
 - **Paradise Friday lunch:** Paradise Inn dining room 12–2:30 (first-come), Camp Deli 11–6:15, Tatoosh Cafe 9–10.
-- **Fees math:** Olympic $30 + Rainier $30 + NW Forest Pass $5 = **$65** — skip the $80 America the Beautiful pass unless it gets used again this year.
+- **Fees math: $0 — we already hold an America the Beautiful pass**, which covers Olympic entry ($30), Rainier entry ($30), and the USFS trailhead parking on Day 3. Not covered: **Ecola State Park** (Oregon state park, ~$10–12) and the Bainbridge ferry (~$40). Pass must be signed, with the holder present; display on the dashboard at trailheads.
 - **Seattle transit (Days 1–3, car-free):** AC Hotel Seattle Downtown = **117 Yale Ave N, South Lake Union** (Marriott code SEADA — *not* the Bellevue "AC Hotel Seattle Bellevue/Downtown", code SEAAR). Westlake → hotel is 0.65 mi / ~16 min on Stewart St, **flat** (net +10 ft). Route 70 is the only bus connection and is *slower* than walking (8-min ride but +3 min walk, ~7 min avg wait, +5 min walk = ~23 min). Streetcar, monorail, and all RapidRide lines go the wrong way. Link/Metro/streetcar are **$3.00** each in 2026 (doc previously said $3.50); contactless tap = same fare + **2-hour transfer window**; ORCA card $3 + **$18 3-day promo pass** (valid through Aug 31, 2026 — exactly covers Aug 22–24) only pays off at 2+ rides/day. **Free Waterfront Shuttle** runs May 21–Sep 7, every 15 min, 10 AM–10 PM: Seattle Center ↔ Olympic Sculpture Park ↔ Pike Place ↔ ferry terminal ↔ Pioneer Square ↔ Stadium/CID. **Monorail is excluded from ORCA transfers as of Jan 1, 2026** and takes no contactless — $4 adult each way. Walk times from hotel: Pike Place 0.87 mi, Space Needle 0.98 mi, MoPOP 1.03 mi, SAM 1.07 mi, waterfront 1.13 mi, **Kerry Park 2.07 mi + steep climb (rideshare it)**. Route 8 stops ~95 m from the hotel door → Seattle Center in ~10 min, every ~15 min.
 
 ## Sun + tide table (verified: USNO / NOAA)
@@ -56,8 +56,8 @@
 2. ~~Space Needle timed ticket~~ — **dropped.** Not going up; the Kerry Park view on Day 1 covers it. Saves ~$40–55/person.
 3. **Seattle Aquarium timed ticket** — Sat Aug 22, 3:00 PM slot (cheaper ahead; "less busy after 3 PM on weekends" per their own site).
 4. **MoPOP ticket** — Sun Aug 23 (dynamic pricing). SAM advance ticket optional.
-5. **The Wayfarer** — Wed Sep 2, ~6:30 PM, OpenTable + phone request for window table.
-6. **Northwest Forest Pass e-pass ($5)** — print for the Day 3 trailheads.
+5. ~~The Wayfarer~~ — no availability Sep 2; dinner that night is walk-in/day-of.
+6. ~~Northwest Forest Pass~~ — **not needed; the America the Beautiful pass covers it.** Just don't leave the card at home.
 7. **Message the Forks Airbnb host** — ~8:30 PM arrival Aug 28; confirm self check-in.
 8. Optional: **Singer's Table** lunch res for Thu Aug 27 (~1:15 PM), (866) 405-8350.
 9. Before Sep 3: **re-check Grand Park 2 Fire** status and smoke forecast.
@@ -88,34 +88,42 @@
 
 ## Day 2: Sunday Aug 23 — Big Seattle Day *(sunset 8:07 PM)*
 
-- 8:30 AM — Piedmont Café (1215 Seneca St — coffee + pastries)
-- 9:30 AM — Optional Anchorhead stop (1600 7th Ave) on the walk over
-- 10:00 AM — Seattle Art Museum at open (closes 5)
-- 12:30 PM — Lunch near Seattle Center (Armory) — or Paseo if you want the Fremont detour
-- 2:00 PM — MoPOP (closes 5 — full 2.5–3 hrs)
-- 4:45 PM — Seattle Center grounds / Chihuly exterior
-- 5:45 PM — Dinner in Lower Queen Anne (e.g., Toulouse Petit)
-- 8:00 PM — Back to hotel, pack for the 4:45 AM alarm (Space Needle dropped — not going up)
-- 9:00 PM — Hotel; pack for the 4:45 AM alarm
+- 8:00 AM — **Breakfast: Portage Bay Cafe, 391 Terry Ave N** (Sun 8–2; no reservations for small parties, 30–60 min waits after ~8:30 — arrive at open). Replaces Piedmont Café, which is First Hill, ~0.7 mi uphill the wrong way
+- 9:30 AM — Anchorhead Coffee, 1600 7th Ave (open 7–6 daily)
+- 10:00 AM — Seattle Art Museum at open ($29.99, no timed entry, closes 5 — closed Mon/Tue, so today is the only window)
+- 1:00 PM — **Lunch: Hatch Cantina, 200 Bell St — BOOKED.** ~15 min walk from SAM, ~15 min on to Seattle Center. (Fremont/Paseo cut — no car until Monday, 25–30 min each way by bus)
+- 2:15 PM — MoPOP (closes 5 — ~2h45m)
+- 5:00 PM — Seattle Center grounds / Chihuly Garden
+- 6:15 PM — **Dinner: Kalabaw, 2328 1st Ave (Belltown) — BOOKED.** ~15 min walk from Seattle Center, ~22 min back to the hotel after
+- 8:00 PM — Back to hotel, pack for the 4:45 AM alarm. **Space Needle dropped — not going up; Kerry Park on Day 1 covers the view**
 
 ## Day 3: Monday Aug 24 — Rental Car + North Cascades
 
-- 4:45 AM — Wake (luggage stays — 3rd hotel night)
-- 5:15 AM — **Uber direct to SEA Rental Car Facility** (3150 S 160th St, ~30 min, ~$45–55) — beats Link + shuttle by ~40 min
-- 5:50 AM — Hertz counter (rental starts 6 AM)
-- 6:15 AM — On the road: I-5 N → SR-20 E
-- 9:15 AM — Newhalem Visitor Center (stickers/postcards first)
-- 9:45 AM — Trail of the Cedars + Ladder Creek Falls (~40 min)
-- 10:30 AM — Gorge Overlook (quick) → Diablo Lake Vista (15 min)
-- 11:00 AM — Drive to Rainy Pass (~40 min); save Ross Lake Overlook for the return
-- 11:45 AM — **Maple Pass Loop** (7.5 mi, 4–4.5 hr)
-- 4:15 PM — **Rainy Lake** (1.8 mi paved, 40 min, same lot)
-- 5:05 PM — Washington Pass Observation Site (5 min east; 15 min stop)
-- 5:30 PM — Head west; Ross Lake Overlook if energy allows
-- 7:15 PM — Dinner in Burlington (I-5)
-- 9:15 PM — Seattle hotel; car in garage
+**Decision: Maple Pass Loop + Blue Lake (Rainy Lake dropped).** ~7 hrs of hiking — the roadside stops get trimmed to pay for it.
 
-**Blue Lake** (separate trailhead near Washington Pass): only if off Maple Pass before 3 PM.
+- 4:45 AM — Wake (luggage stays — 3rd hotel night)
+- 5:15 AM — **Uber direct to SEA Rental Car Facility** (3150 S 160th St, ~30 min, ~$45–55). Hertz is NOT in the terminal — Link + terminal + shuttle bus puts you at the counter ~6:40 instead
+- 5:50 AM — Hertz counter (rental starts 6 AM)
+- 6:15 AM — Driving; I-5 N → SR-20 E (~2h45m to Newhalem)
+- 9:05 AM — **Newhalem Visitor Center** (opens 9, closes 5 — must be done eastbound; you won't pass back before close). Stickers + postcards
+- 9:30 AM — Gorge Overlook + Diablo Lake Vista, quick pullouts only
+- 10:15 AM — Arrive Rainy Pass
+- 10:30 AM — **Maple Pass Loop** (7.5 mi, ~2,000 ft, brisk pace 4 hr)
+- 2:30 PM — Finish; drive ~4 mi east to the **separate** Blue Lake trailhead
+- 2:45 PM — **Blue Lake** (4.4 mi RT, ~1,050 ft, brisk pace 2 hr)
+- 4:45 PM — Finish
+- 5:00 PM — Washington Pass Observation Site (~1 mi east, 15 min)
+- 5:15 PM — Drive west (~1h40m to Burlington)
+- 7:00 PM — **Dinner stop on I-5** (Burlington/Mount Vernon), ~35 min. SR-20 between Washington Pass and Burlington is empty — Marblemount closes early, then nothing until I-5
+- 8:45 PM — Seattle hotel; car in garage
+
+**Pace assumption:** the above runs Maple Pass at 4 hr and Blue Lake at 2 hr — brisk but reasonable for fit hikers. At a moderate pace (4.5 / 2.5 hr) plus a longer dinner, everything shifts ~90 min later and you're back at 10:15 PM.
+
+**Trailhead pass:** Rainy Pass and Blue Lake are USFS (Okanogan-Wenatchee NF), not park land, so they need a Northwest Forest Pass — **the America the Beautiful pass satisfies this**. Display it signed on the dashboard. North Cascades NP itself is fee-free.
+
+**Cut from the original:** Rainy Lake, Trail of the Cedars, Ladder Creek Falls, Ross Lake Overlook. The original called for all three hikes (7.5–8.5 hr) plus seven roadside stops, which put the finish at 7:30–8:15 PM and a midnight Seattle arrival — three hours of dark mountain driving after a 4:45 AM wake.
+
+**Fallback if you're behind:** Blue Lake is the one to drop. Missing it costs 2.5 hr; missing the drive home costs the night.
 
 ## Day 4: Tuesday Aug 25 — Ferry to Port Angeles
 
@@ -144,12 +152,19 @@
 
 ## Day 6: Thursday Aug 27 — Lake Crescent
 
+**Change: Singer's Table moved from LUNCH to DINNER.** Sunset is 8:04 PM, so an early-evening table gets the lake in golden light; the old shape had you eating at 1:15 then loitering until 4:30.
+
 - 7:45 AM — Leave PA; 8:15 Storm King trailhead
 - 8:30 AM — **Mount Storm King** (3.8 mi RT, ~2,100 ft, 3–3.5 hr)
 - 12:00 PM — **Marymere Falls** (1.8 mi RT, ~50 min)
-- 1:15 PM — Lunch at **Singer's Table**, Lake Crescent Lodge
-- 2:30 PM — Lakeside; optional rowboat/kayak (FareHarbor or walk-up)
-- 4:30 PM — Back to PA; 6:30 PM dinner; pack for the move
+- 1:00 PM — Packed lunch by the lake
+- 2:00 PM — Lakeside afternoon — rowboat/kayak (FareHarbor or walk-up) or swim. **Spruce Railroad / Devil's Punchbowl doesn't fit this window** (~20 min drive each way + ~1.5 hr walk against a 2h15m gap) — save it or skip it
+- 4:15 PM — Back to the lodge, change out of hiking clothes
+- 5:00 PM — **Dinner: Singer's Table, Lake Crescent Lodge — BOOKED 5:00 PM**
+- 6:45 PM — Optional: back down to the lake for evening light (sunset 8:04 PM), or drive out
+- 7:15 PM — VRBO; pack for the Forks move tomorrow
+
+**Practical:** bring a change of clothes — you come off a 2,100 ft climb straight into dinner, and a shower round-trip to Port Angeles costs an hour of driving. The lodge is a national-park concessionaire: no dress code, casual room, and the draw is the 1915 building and the lake view more than the cooking.
 
 ## Day 7: Friday Aug 28 — Sol Duc + La Push *(timed to the falling tide; sunset 8:07 PM)*
 
@@ -181,12 +196,12 @@
 
 ## Day 9: Sunday Aug 30 — Coast Sunrise → Portland *(sunrise 6:33 AM)*
 
-- 5:30 AM — Wake; 6:00 depart
-- 6:45 AM — **Ruby Beach** (~40 min, post-sunrise light)
-- 7:40 AM — Kalaloch **Tree of Life** (15 min)
-- 9:20 AM — Aberdeen breakfast (~40 min)
-- 10:00 AM — Resume (~2:40 to Portland)
-- 12:45 PM — Dossier bag drop
+**Ruby Beach + Tree of Life moved to Day 8 evening** — dinner at Creekside (Kalaloch) on Aug 29 puts you there at sunset, which is strictly better light than a west-facing beach at dawn. Day 9 is now a clean drive day.
+
+- 6:15 AM — Wake; 7:00 depart Forks
+- 9:15 AM — Aberdeen breakfast (~45 min)
+- 10:00 AM — Resume (~2h40m to Portland)
+- 12:40 PM — Dossier bag drop
 - 1:15 PM — Food-cart lunch
 - 2:15 PM — **Powell's** (10–9 daily)
 - 4:30 PM — Pearl District; 5:30 check-in + rest
@@ -224,7 +239,7 @@
 - 1:00 PM — **Indian Beach** picnic
 - 2:30 PM — Town: shops, galleries, Bruce's Candy Kitchen
 - 4:30 PM — Optional Hug Point look, or rest at the inn
-- 6:30 PM — **The Wayfarer** (reserved) — sunset mid-dinner
+- 6:30 PM — Dinner in town, chosen day-of. Wayfarer had no availability; note it **does take walk-ins for dinner** (service starts 4 PM), so an early arrival is still a shot at the oceanfront room
 - 8:15 PM — Last beach stroll
 
 ## Day 13: Thursday Sep 3 — To Rainier + Paradise Preview
@@ -265,7 +280,7 @@
 
 ## Anticipated on-trip fixed costs (~$400–600 for two, before meals)
 
-- Park entry: Olympic $30 + Rainier $30 + NW Forest Pass $5 = **$65** (North Cascades free)
+- Park entry: **$0** — America the Beautiful pass covers Olympic, Rainier, and Day 3 trailhead parking (North Cascades is free anyway)
 - Bainbridge ferry (car + 2): ~$40
 - Ecola day-use: ~$12
 - Tickets ×2: Aquarium ~$40–50 ea · SAM $29.99 ea · MoPOP ~$30–40 ea · Pittock $17 ea (Aquarium/MoPOP are dynamic-priced — early booking locks lower tiers)
