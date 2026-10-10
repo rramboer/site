@@ -16,15 +16,12 @@ Wellness Center. Open it in a browser to preview, or paste the source into your 
 ## Logo files (`images/`)
 | File | What it is |
 |---|---|
-| `lifepointe-logo.png` | 440×166, wordmark recolored to navy `#3d437c` — **used by the email** |
-| `lifepointe-logo-white.png` | 1347×508, original artwork, white wordmark for dark backgrounds |
-| `recolor-logo.py` | The Pillow script that produced the navy version, if you need to redo it |
+| `lifepointe-logo.png` | 440×149, full-color logo for light backgrounds — **used by the email** (shown at 220×74) |
+| `lifepointe-logo-white.png` | 1320×441, reversed logo (white wordmark) for dark backgrounds |
 
-The original logo was a WebP with a **white** wordmark, built for a dark background — invisible
-on the email's white header, and WebP doesn't render in Outlook 2016–2021 on Windows anyway.
-Both problems are solved: converted to PNG, and every white pixel in the wordmark and the family
-figures recolored to navy. The red heart and the green banner (including its white
-"& WELLNESS CENTER" text, which sits on green and needed to stay white) are untouched.
+Both are rendered from the original 2012 vector artwork in the official Pantone colors (see
+below), replacing the earlier versions that were recolored from a low-resolution WebP. PNG
+rather than SVG because Gmail and Outlook don't render SVG images.
 
 ## Typography
 Everything in the email uses one stack:
@@ -45,15 +42,18 @@ Google Fonts for clients that support webfonts (Apple Mail, iOS, Outlook.com, Sa
 Outlook desktop fall back to Helvetica/Arial, which have close enough proportions that nothing
 reflows. An `[if mso]` block forces Outlook desktop onto Arial so it never defaults to Times.
 
-## Brand colors (pulled from lifepointechiropractic.com)
-| Role | Hex |
-|---|---|
-| Primary navy | `#3d437c` |
-| Secondary indigo | `#545da8` |
-| Accent gold (CTA) | `#fec741` |
-| Body text | `#474747` |
-| Page background | `#edf0f5` |
-| Footer | `#212121` |
+## Brand colors (official Pantone inks, same tokens as the website)
+| Role | Hex | Source |
+|---|---|---|
+| Navy: header strip, hero, headings, labels, secondary button, footer | `#00205B` | Pantone 281 C |
+| Green: primary button (always with navy text, 6.8:1) | `#84BD00` | Pantone 376 C |
+| Red: the logo heart only | `#EE2737` | Pantone 1788 C |
+| Body text | `#4A5470` | navy-tinted neutral (7.5:1 on white) |
+| Muted text on navy / links on navy / fine print on navy | `#CCD2DE` / `#E6E9EF` / `#9EAAC1` | navy tints, all AA on navy |
+| Page background / dividers | `#F0F2F5` / `#E0E4EB` | navy tints |
+
+No gold, indigo or near-black: those came from the old DearDoc site, not the brand. See
+`../lifepointe-website/DESIGN.md` for the full color rules.
 
 ## Before you send — three things to replace
 1. **Logo — host it and use an absolute URL.** `images/lifepointe-logo.png` is referenced by a

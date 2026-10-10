@@ -88,7 +88,7 @@ def header(active):
 <header class="site-header">
   <div class="wrap site-header__bar">
     <a class="site-header__logo" href="index.html" aria-label="Lifepointe Chiropractic and Wellness Center — home">
-      <img src="assets/logo-navy.png" alt="Lifepointe Chiropractic and Wellness Center" width="168" height="63">
+      <img src="assets/logo-full-color.svg" alt="Lifepointe Chiropractic and Wellness Center" width="180" height="61">
     </a>
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg>
@@ -98,7 +98,7 @@ def header(active):
       <ul>{''.join(links)}</ul>
     </nav>
     <div class="site-header__cta">
-      <a class="btn btn--gold btn--sm" href="contact.html#appointment">Request an appointment</a>
+      <a class="btn btn--primary btn--sm" href="contact.html#appointment">Request an appointment</a>
     </div>
   </div>
 </header>'''
@@ -111,7 +111,7 @@ def cta_band(heading="Don&rsquo;t wait any longer to get relief from your pain."
     <h2 class="display-2 measure-center">{heading}</h2>
     <p class="lede measure-center">{sub}</p>
     <div class="btn-row btn-row--center">
-      <a class="btn btn--gold" href="contact.html#appointment">Request an appointment</a>
+      <a class="btn btn--primary" href="contact.html#appointment">Request an appointment</a>
       <a class="btn btn--ghost" href="{PHONE_TEL}">Call {PHONE}</a>
     </div>
   </div>
@@ -124,7 +124,7 @@ def footer():
     <div class="site-footer__grid">
       <div>
         <a class="site-footer__logo" href="index.html" aria-label="Lifepointe Chiropractic — home">
-          <img src="assets/logo-white.png" alt="Lifepointe Chiropractic and Wellness Center" width="190" height="72">
+          <img src="assets/logo-reversed.svg" alt="Lifepointe Chiropractic and Wellness Center" width="190" height="63">
         </a>
         <p class="site-footer__tagline">Family wellness and chiropractic care for every age &mdash; serving Clarkston since 2001.</p>
         <div class="social-row">
@@ -227,7 +227,7 @@ index_body = f'''
       <h1 id="hero-h" class="display-1 rise rise-2">Health comes from within.<br>We clear the way.</h1>
       <p class="lede rise rise-3">Your body is built to heal itself &mdash; our job is to remove what&rsquo;s interfering. Since 2001, Lifepointe has cared for Clarkston families at every age, from newborns just minutes old to the most experienced members of our community.</p>
       <div class="btn-row rise rise-4 mt-15">
-        <a class="btn btn--gold" href="contact.html#appointment">Request an appointment</a>
+        <a class="btn btn--primary" href="contact.html#appointment">Request an appointment</a>
         <a class="btn btn--ghost" href="new-patients.html">What to expect</a>
       </div>
       <div class="badge-row rise rise-4 mt-2">
@@ -272,7 +272,7 @@ index_body = f'''
       {cards_html}
     </div>
     <div class="btn-row mt-2">
-      <a class="btn btn--gold" href="services.html">See all services &amp; products</a>
+      <a class="btn btn--primary" href="services.html">See all services &amp; products</a>
     </div>
   </div>
 </section>
@@ -659,7 +659,7 @@ recipe_body = page_hero('Healthy recipe book', 'From our kitchen to yours',
       <h2 id="recipes-h" class="display-2">Wholesome recipes, zero inflammatory foods</h2>
       <p>Every recipe avoids inflammatory foods like refined sugar, grain, dairy, and processed food. If you see our logo next to an ingredient, it can be purchased right here at our office; for other items, links inside the recipes point to the same brands we use in our own home.</p>
       <p>And if you see a star next to a recipe &mdash; those are our Ramboer Family Favorites!</p>
-      <a class="btn btn--gold" href="{RECIPE_DRIVE}">Open the recipe book</a>
+      <a class="btn btn--primary" href="{RECIPE_DRIVE}">Open the recipe book</a>
     </div>
     <div class="card">
       {icon('leaf')}
